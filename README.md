@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 ## Run
 
 ```sh
-python3 main.py --config=default.conf
+python3 main.py --config=conf/default.json
 ```
 
 ## Config file
