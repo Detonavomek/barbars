@@ -27,4 +27,4 @@ python3 main.py --config=conf/default.json
 
 ## Config file
 
-TODO - fill this part of README
+TODO - fill this part of README by keys
